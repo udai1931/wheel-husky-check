@@ -7,6 +7,7 @@ class ApplicationController < ActionController::Base
   private
 
     def ensure_current_user_is_superadmin!
+      # qwerty
       authenticate_user!
 
       unless current_user.super_admin?
