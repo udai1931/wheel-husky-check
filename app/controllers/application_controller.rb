@@ -7,7 +7,11 @@ class ApplicationController < ActionController::Base
   private
 
     def ensure_current_user_is_superadmin!
+<<<<<<< HEAD
       # qwety
+=======
+      # asdfg
+>>>>>>> 4d00841 (commit 3)
       authenticate_user!
 
       unless current_user.super_admin?
