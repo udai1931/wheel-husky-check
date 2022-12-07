@@ -5,6 +5,7 @@ Rails application built with opinions of BigBinary style of working.
 
 ## Local Development Setup
 
+
 First clone this repo.
 
 Then install the [Node.js](https://nodejs.org) version `v16.5` which we have specified inside the `.node-version` file of this repo.
