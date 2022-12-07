@@ -10,11 +10,6 @@ GIT
       rainbow
       rubocop
       smart_properties
-<<<<<<< HEAD
-// qwerty
-=======
-// asdfghjklg
->>>>>>> e0650de (commit 2)
 GIT
   remote: https://github.com/ffi/ffi.git
   revision: e6311548e4dce7c98a54d6ab0f996e95dc413b07
